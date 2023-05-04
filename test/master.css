@@ -1,0 +1,186 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header styles */
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px 0;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 0;
+}
+
+nav {
+  float: right;
+  margin-top: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-top: -38px;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 20px;
+  border-right: 1px white solid;
+  border-left: 1px white solid;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Hero section styles */
+
+#hero {
+  background-image: url(image/1664271579476.jpg);
+  background-size: cover;
+  color: white;
+  padding: 200px 0;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#hero h2 {
+  font-size: 60px;
+  margin: 0;
+}
+
+#hero p {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+button {
+  background-color: #e50914;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+button a {
+  color: white;
+  text-decoration: none;
+}
+
+button:hover {
+  background-color: #ff0f26;
+}
+
+/* Features section styles */
+#features {
+  background-color: #f8f8f8;
+  padding: 100px 0;
+  text-align: center;
+}
+
+#features h2 {
+  font-size: 40px;
+  margin: 0;
+}
+
+#features p {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+.col {
+  flex: 1;
+  margin: 0 20px;
+}
+
+.col img {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 100%;
+}
+
+.col h3 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+/* Gallery section styles */
+#gallery {
+  background-color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+
+#gallery h2 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.col img {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 100%;
+}
+
+.col h3 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+/* Footer styles */
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer p {
+  font-size: 16px;
+  margin: 0;
+}
+
+footer ul {
+  list-style: none;
+  margin: 20px 0 0;
+  padding: 0;
+}
+
+footer li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}

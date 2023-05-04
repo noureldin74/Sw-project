@@ -1,0 +1,16 @@
+Functional Requirements:
+
+The web page should have a header section that displays the Netflix logo and a navigation bar with links to various pages on the site.
+The web page should have a hero section that displays an image and a call-to-action button that takes the user to the sign-up page.
+The web page should have a features section that highlights key features of the service, including popular shows and movies.
+The web page should have a gallery section that displays thumbnail images of available content that the user can click on to view more details.
+The web page should have a footer section that displays links to important pages on the site, such as the FAQ, help center, and terms of service.
+
+
+Non-Functional Requirements:
+
+The web page should load quickly and have minimal lag or delays when navigating between sections.
+The web page should be responsive and display properly on a range of devices, including desktops, laptops, tablets, and smartphones.
+The web page should have a modern, visually appealing design that is consistent with the branding and style of Netflix.
+The web page should be accessible to all users, including those with disabilities, and meet the latest web accessibility standards.
+The web page should be secure and protect user data, including personal information and payment details, using encryption and other security measures.
